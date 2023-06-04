@@ -21,9 +21,9 @@ Segmented Image
 </br>
 
 ## **Audio Processing**
-</br>
+
 **Active Noise Canceling**
-</br>
+
 Noisy Sound
 </br>
 <img width="869" alt="Noisy" src="https://github.com/yoon-bang/Digital-Signal-Processing/assets/55645090/77263f54-3773-4dfd-a2c9-90e2d02f45e2">
