@@ -1,7 +1,7 @@
 # Digital-Signal-Processing
 2022-2 디지털 신호 처리
 </br>
-#**Image Processing**
+#Image Processing
 </br>
 **Texture Segmentation**
 </br>
