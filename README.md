@@ -7,6 +7,7 @@
 </br>
 Original Image
 <img width="287" alt="original_img" src="https://github.com/yoon-bang/Digital-Signal-Processing/assets/55645090/4bfeea92-7338-47f9-a2fa-579d01c08d55">
+
 Segmented Image
 <img width="280" alt="segmented_img" src="https://github.com/yoon-bang/Digital-Signal-Processing/assets/55645090/bb2b8471-dd6e-442e-a3b4-08c0e630f3a4">
 
@@ -19,6 +20,8 @@ Visual Tracking
 </br>
 
 **Active Noise Canceling**
+
+</br>
 Noisy Sound
 <img width="869" alt="Noisy" src="https://github.com/yoon-bang/Digital-Signal-Processing/assets/55645090/77263f54-3773-4dfd-a2c9-90e2d02f45e2">
 
