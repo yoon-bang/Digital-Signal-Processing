@@ -14,6 +14,7 @@ Segmented Image
 <img width="280" alt="segmented_img" src="https://github.com/yoon-bang/Digital-Signal-Processing/assets/55645090/bb2b8471-dd6e-442e-a3b4-08c0e630f3a4">
 
 **Visual Tracking**
+</br>
 [visual_tracking_result.pdf](https://github.com/yoon-bang/Digital-Signal-Processing/files/11645862/visual_tracking_result.pdf)
 
 </br>
