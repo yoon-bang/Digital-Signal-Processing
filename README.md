@@ -4,7 +4,6 @@
 ## **Image Processing**
 
 </br>
-
 **Texture Segmentation**
 </br>
 Original Image
